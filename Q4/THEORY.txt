@@ -1,0 +1,5 @@
+>>Intially created S3 bucket with public access
+>>store the required data in one folder which means 
+reactjs application
+>>Upload the folder into the created bucket
+>>hence result application get into the display

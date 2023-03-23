@@ -1,0 +1,8 @@
+>>create the ec2 instance for reactjs application
+>>After launched instance connect and run the instance
+>>provided the public access
+>>By make use of the some commands 
+>>And give the local host with ip address
+>>That is http://local host:3000
+>>As http://172.31.62.130:3000
+>>hence we get webpage
